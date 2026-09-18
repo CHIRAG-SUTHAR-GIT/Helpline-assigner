@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Police Call Assignment & Tracking System",
+  "description": "Semi-automated call monitoring, financial classification, round-robin assignment across Helpline 1-16, shift boundary enforcement, skip management, and WhatsApp image generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
